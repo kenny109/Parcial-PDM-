@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/welcomeFragment"
         android:name="com.example.parcial_pdm.WelcomeFragment"
-        android:label="Welcome"
+        android:label="Bienvenido!"
         tools:layout="@layout/fragment_welcome">
         <action
             android:id="@+id/action_welcomeFragment_to_questionFragment"
@@ -18,7 +18,7 @@
     <fragment
         android:id="@+id/questionFragment"
         android:name="com.example.parcial_pdm.QuestionFragment"
-        android:label="Question"
+        android:label="Pregunta!"
         tools:layout="@layout/fragment_question">
         <action
             android:id="@+id/action_questionFragment_to_answerFragment"
@@ -31,7 +31,7 @@
     <fragment
         android:id="@+id/answerFragment"
         android:name="com.example.parcial_pdm.AnswerFragment"
-        android:label="Answer"
+        android:label="Respuesta!"
         tools:layout="@layout/fragment_answer">
         <argument
             android:name="questionId"
@@ -47,7 +47,7 @@
     <fragment
         android:id="@+id/resultFragment"
         android:name="com.example.parcial_pdm.ResultFragment"
-        android:label="Result"
+        android:label="Resultados!"
         tools:layout="@layout/fragment_result">
         <argument
             android:name="score"

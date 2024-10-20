@@ -8,9 +8,9 @@
     <string name="incorrect_text">Incorrecto</string>
     <string name="score_text">Puntuación final: %1$d</string>
     <string name="game_description">¡Bienvenido al juego de mitología! Responde preguntas sobre dioses y mitología de diversas culturas.</string>
-
+    <string name="result_title">¡Felicidades!</string>"
     <!-- Preguntas y respuestas -->
-    <!-- Pregunta 1 -->
+    <!-- Pregunta 1 0-->
     <string name="question_1">¿Quién es el dios del trueno en la mitología nórdica?</string>
     <string-array name="question_1_options">
         <item>Thor</item>
@@ -20,47 +20,47 @@
     </string-array>
     <string name="question_1_explanation">Thor es el dios del trueno en la mitología nórdica, conocido por su martillo Mjölnir.</string>
 
-    <!-- Pregunta 2 -->
+    <!-- Pregunta 2 1-->
     <string name="question_2">¿Qué diosa era la esposa de Zeus en la mitología griega?</string>
     <string-array name="question_2_options">
-        <item>Hera</item>
         <item>Afrodita</item>
+        <item>Hera</item>
         <item>Atenea</item>
         <item>Artemisa</item>
     </string-array>
     <string name="question_2_explanation">Hera es la esposa de Zeus y es conocida como la diosa del matrimonio y la familia.</string>
 
-    <!-- Pregunta 3 -->
+    <!-- Pregunta 3 3-->
     <string name="question_3">¿Quién es el dios del sol en la mitología egipcia?</string>
     <string-array name="question_3_options">
-        <item>Ra</item>
+        <item>Horus</item>
         <item>Anubis</item>
         <item>Osiris</item>
-        <item>Horus</item>
+        <item>Ra</item>
     </string-array>
     <string name="question_3_explanation">Ra es el dios del sol en la mitología egipcia, considerado el creador y protector de todo.</string>
 
-    <!-- Pregunta 4 -->
+    <!-- Pregunta 4 2-->
     <string name="question_4">¿Qué diosa celta estaba asociada a la guerra?</string>
     <string-array name="question_4_options">
-        <item>Morrigan</item>
-        <item>Brigid</item>
         <item>Arianrhod</item>
+        <item>Brigid</item>
+        <item>Morrigan</item>
         <item>Ceridwen</item>
     </string-array>
     <string name="question_4_explanation">Morrigan es la diosa celta asociada a la guerra y la muerte, capaz de cambiar de forma.</string>
 
-    <!-- Pregunta 5 -->
+    <!-- Pregunta 5 1-->
     <string name="question_5">¿Quién es el dios de la guerra en la mitología griega?</string>
     <string-array name="question_5_options">
-        <item>Ares</item>
         <item>Hades</item>
+        <item>Ares</item>
         <item>Poseidón</item>
         <item>Hermes</item>
     </string-array>
     <string name="question_5_explanation">Ares es el dios griego de la guerra, conocido por su naturaleza agresiva y destructiva.</string>
 
-    <!-- Pregunta 6 -->
+    <!-- Pregunta 6 0-->
     <string name="question_6">¿Qué dios nórdico tiene solo un ojo?</string>
     <string-array name="question_6_options">
         <item>Odin</item>
@@ -70,17 +70,17 @@
     </string-array>
     <string name="question_6_explanation">Odin tiene solo un ojo, ya que sacrificó el otro para obtener sabiduría.</string>
 
-    <!-- Pregunta 7 -->
+    <!-- Pregunta 7 3-->
     <string name="question_7">¿Quién es el dios del inframundo en la mitología egipcia?</string>
     <string-array name="question_7_options">
-        <item>Osiris</item>
+        <item>Horus</item>
         <item>Anubis</item>
         <item>Ra</item>
-        <item>Horus</item>
+        <item>Osiris</item>
     </string-array>
     <string name="question_7_explanation">Osiris es el dios del inframundo en la mitología egipcia, encargado de juzgar a los muertos.</string>
 
-    <!-- Pregunta 8 -->
+    <!-- Pregunta 8 0-->
     <string name="question_8">¿Qué dios griego es conocido como el mensajero de los dioses?</string>
     <string-array name="question_8_options">
         <item>Hermes</item>
@@ -90,17 +90,17 @@
     </string-array>
     <string name="question_8_explanation">Hermes es conocido como el mensajero de los dioses, encargado de llevar mensajes entre el Olimpo y los mortales.</string>
 
-    <!-- Pregunta 9 -->
+    <!-- Pregunta 9 2-->
     <string name="question_9">¿Quién es el dios de los mares en la mitología griega?</string>
     <string-array name="question_9_options">
-        <item>Poseidón</item>
+        <item>Apolo</item>
         <item>Atenea</item>
-        <item>Apollo</item>
+        <item>Poseidón</item>
         <item>Ares</item>
     </string-array>
     <string name="question_9_explanation">Poseidón es el dios del mar en la mitología griega, hermano de Zeus y Hades.</string>
 
-    <!-- Pregunta 10 -->
+    <!-- Pregunta 10 0-->
     <string name="question_10">¿Qué diosa egipcia es conocida por su rol como madre y protectora?</string>
     <string-array name="question_10_options">
         <item>Isis</item>
